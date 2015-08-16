@@ -1,0 +1,2 @@
+# Cozy application for IndieHosters
+
